@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+        <wallpaper deleted="false">
+                <name>Strike One</name>
+                <filename>/usr/share/backgrounds/scenery/argerich1.xml</filename>
+                <options>stretched</options>
+        </wallpaper>
+
+        <wallpaper deleted="false">
+                <name>Azcuenaga Night</name>
+                <filename>/usr/share/backgrounds/scenery/argerich2.xml</filename>
+                <options>stretched</options>
+        </wallpaper>
+
+        <wallpaper deleted="false">
+                <name>Tranquility Base</name>
+                <filename>/usr/share/backgrounds/scenery/argerich3.xml</filename>
+                <options>stretched</options>
+        </wallpaper>
+
+        <wallpaper deleted="false">
+                <name>Light from Above</name>
+                <filename>/usr/share/backgrounds/scenery/argerich4.xml</filename>
+                <options>stretched</options>
+        </wallpaper>
+
+        <wallpaper deleted="false">
+                <name>Lobos Sunset</name>
+                <filename>/usr/share/backgrounds/scenery/argerich5.xml</filename>
+                <options>stretched</options>
+        </wallpaper>
+
+        <wallpaper deleted="false">
+                <name>Long Shadows</name>
+                <filename>/usr/share/backgrounds/scenery/downing1.xml</filename>
+                <options>stretched</options>
+        </wallpaper>
+
+        <wallpaper deleted="false">
+                <name>Deliquescence</name>
+                <filename>/usr/share/backgrounds/scenery/downing2.xml</filename>
+                <options>stretched</options>
+        </wallpaper>
+
+        <wallpaper deleted="false">
+                <name>Bling</name>
+                <filename>/usr/share/backgrounds/scenery/downing3.xml</filename>
+                <options>stretched</options>
+        </wallpaper>
+
+        <wallpaper deleted="false">
+                <name>Viridian Leaf</name>
+                <filename>/usr/share/backgrounds/scenery/downing4.xml</filename>
+                <options>stretched</options>
+        </wallpaper>
+
+        <wallpaper deleted="false">
+                <name>Catch'er</name>
+                <filename>/usr/share/backgrounds/scenery/downing5.xml</filename>
+                <options>stretched</options>
+        </wallpaper>
+</wallpapers>
